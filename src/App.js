@@ -54,7 +54,7 @@ function App() {
       ),
       children: [
         { index: true, 
-          element:<Textform showAlert={showAlert} heading="Try TextUtils - WordCounter, CharacterCounter, Remove Extra Spaces " mode={mode} /> 
+          element:<Textform showAlert={showAlert} heading=" TextUtils - WordCounter, CharacterCounter, Remove Extra Spaces " mode={mode} /> 
         },
         
         { path: '/about',
